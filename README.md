@@ -1,4 +1,23 @@
-# JavaScript Design Patterns
+# JavaScript Design Patterns Summary
+
+This is my summary of the Javascript design patterns mentioned in book [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by [Addy Osmani](https://github.com/addyosmani).
+
+(https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/)
+
+* Constructor Pattern
+* Module Pattern
+* Revealing Module Pattern
+* Singleton Pattern
+* Observer Pattern
+* Mediator Pattern
+* Prototype Pattern
+* Command Pattern
+* Facade Pattern
+* Factory Pattern
+* Mixin Pattern
+* Decorator Pattern
+* Flyweight Pattern
+
 
 ## The Constructor Pattern 
 
